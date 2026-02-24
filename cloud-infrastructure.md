@@ -29,3 +29,5 @@ Example:
 
 Upload objects as desired
 ![object upload](https://gianoli-devops-final-project.s3.us-east-1.amazonaws.com/objectUpload.png)
+
+Using the GUI is pretty straightforward, just click the big orange buttons...
