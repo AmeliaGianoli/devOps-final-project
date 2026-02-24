@@ -24,7 +24,7 @@ Container Name: doc-final-project
 
 Image: kobucom/pandoc:local1
 
-Ports: 8081:8081 (host → container)
+Ports: 8081:80 (host → container)
 
 Volumes: /home/ec2-user/devOps-final-project → /usr/local/apache2/htdocs
 
