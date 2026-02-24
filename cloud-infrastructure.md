@@ -25,7 +25,7 @@ Example:
         } 
 `
 #### When updating "your bucket name" DO NOT FORGET the /* at the end; it will throw an error!
-![screenshot of the error recieved when missing the '/*'](https://gianoli-devops-final-project.s3.us-east-1.amazonaws.com/Screenshot+2026-02-24+105224.png)
+![screenshot of the error recieved when missing the '/*'](https://gianoli-devops-final-project.s3.us-east-1.amazonaws.com/buckerPolicyError.png)
 
 Upload objects as desired
 ![object upload](https://gianoli-devops-final-project.s3.us-east-1.amazonaws.com/objectUpload.png)
